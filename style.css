@@ -1,0 +1,42 @@
+body {
+	margin: 10px;
+	background-color: aliceblue;
+}
+
+h1 {
+	font-family: 'Bungee', cursive;
+	font-size: 5em;
+	color: #5bc0de;
+	text-align: center;
+}
+
+button {
+	background-color: #5bc0de;
+	padding: 10px 20px;
+	font-size: 16px;
+	border-radius: 8px;
+	border: none;
+	opacity: 1;
+}
+button:hover {
+	opacity: 0.5;
+}
+
+#search {
+	width: 65%;
+	padding: 8px 15px;
+	margin: 6px 0;
+	box-sizing: border-box;
+}
+
+.btn-secondary {
+	background-color: #5bc0de;
+	padding: 10px 20px;
+	font-size: 16px;
+	border-radius: 8px;
+	border: none;
+	opacity: 1;
+}
+.btn-secondary:hover {
+	opacity: 0.5;
+}
